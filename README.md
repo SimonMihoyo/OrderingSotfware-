@@ -4,7 +4,7 @@
 in order to solve those problems with my techear,so this is the program with Visual Basic 6.0.
 yeah,You read that right,Visual Basic 6.0. this is an ancient software.
 but it may be rudimentary.
-that's all,thans for reading this text.
+that's all,thanks for reading this text.
 
 ---中文
 为了解决老师们上课点名的烦恼，我开发了这么一款软件。
